@@ -2,8 +2,6 @@
 
 Starter code for a clean Next.js + TypeScript + ESLint project.
 
-More info here: https://paulintrognon.fr/blog/post/typescript-prettier-eslint-next-js
-
 ## Get started
 
 ```sh
@@ -23,4 +21,3 @@ yarn dev
 - lint-staged: linting will only happen on staged files, not all file
 - Latest Husky
 - TypeScript types are checked before each commit
-- You can build it yourself by [reading the blog post](https://paulintrognon.fr/blog/typescript-prettier-eslint-next-js) :-)
